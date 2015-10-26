@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1445865254 source:d:\users\piotr.bartela\documents\codeblocks\26-10_losowanie_liczb\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1445865256 source:g:\codeblocks\26-10_losowanie_liczb\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
